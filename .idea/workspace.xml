@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e28fd49-8d89-4d6b-9d58-613a336b58a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/day 0, hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_0, hello_world.py" afterDir="false" />
-    </list>
+    <list default="true" id="5e28fd49-8d89-4d6b-9d58-613a336b58a0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day_6, let's_review.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day_8, dictionaries_and_maps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -43,6 +50,7 @@
         <option value="$PROJECT_DIR$/day_4, class_vs_instance.py" />
         <option value="$PROJECT_DIR$/day_5, loops.py" />
         <option value="$PROJECT_DIR$/day_6, let's_review.py" />
+        <option value="$PROJECT_DIR$/day_8, dictionaries_and_maps.py" />
       </list>
     </option>
   </component>
@@ -111,16 +119,18 @@
       <workItem from="1548077762161" duration="55000" />
       <workItem from="1548157770729" duration="101000" />
       <workItem from="1548249959182" duration="60000" />
+      <workItem from="1549449114200" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="896000" />
+    <option name="totallyTimeSpent" value="950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="25" width="1541" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28294313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28695652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -189,6 +199,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_8, dictionaries_and_maps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
